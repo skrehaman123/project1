@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Welcome cse C" %></h2>
+<h2><%= "Welcome cse CA" %></h2>
 </body>
 </html>
